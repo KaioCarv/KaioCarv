@@ -35,9 +35,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![macOS](https://img.shields.io/badge/-macOS-0D1117?style=for-the-badge&logo=macOS&labelColor=0D1117)&nbsp;
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KaioCarv}/count.svg" /></p> 
-<br></div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e72fc&height=120&section=footer"/>
