@@ -1,39 +1,135 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e72fc&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6e72fc&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'M+KAIO+CARVALHO;I'M+19+YEARS+OLD;I'M+FULL-STACK+DEVELOPER;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+<table>
+<tr>
 
-## &nbsp;Github Stats:
+<td valign="top">
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KaioCarv&show_icons=true&count_private=true&hide_border=true&title_color=6e72fc&icon_color=6e72fc&text_color=c9d1d9&bg_color=0d1117" alt="KaioCarv github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioCarv&layout=compact&hide_border=true&title_color=6e72fc&text_color=6e72fc&bg_color=0d1117" />
+<pre>
+                     ==--=--:..:::-                    
+                  -:------:.::-:...-::                 
+              --==-::::::::.::..:.......               
+            ==--:-:-:::::::::-.....:......             
+          ==--:-:::::-::::::::..............           
+          =:.:::-+*#%@@@%+====-:.............          
+         =-.::-=#@@@@@@@@@@%%%#**++=..........         
+         =--:-+@@@@@@@@@@@@#*****+==-:::......         
+         ----+*@@@@@@@@@@@%#****++==---::....          
+         =---=*@@@@@@@@@@%%%***++=====-:.....          
+          =-=+*@@@@@@@@@@@@@#**++=+===-:....           
+          +**@@@%%#***#@@@%%#++==++++=--::..           
+          *#@@+++***+===+*#*=-:.........--:.           
+        +%%#@%#*=-=-.:==#@@#=.......:....--.:          
+        #@@%@@@%%%%#++*%@@@#=...++===:..:--:.          
+        @@%#%@@@@@@@@@@@@@@%=::-+++=====----:          
+        @%@@@@@@@@@@@@@@@@@%=-:-#%##**+=---::          
+        @@%@@@@@@@@@##@@@@@%=-::-#%#*++=---::          
+        @@@@@@@@@%*=*@@@@@@#=---:-**+==-----           
+         @@#@@%@%=-#@@@%%%+-:...::-=+=-::---           
+           %@%%%+--+*##%#**+=:......:=-::-:            
+           @@@%@#=#=-#@@@@*+=--:....-=-::-             
+            %@@@%%@@@@@@@@@@@@+---==*=::-:             
+            @@%@%%@@@@@@%#**=----===-:--.              
+            @@%%%@@@@@@@%**======-:::::                
+          @@@@@@%@@@@@@@@%#**+==+-::--                 
+         @@+@@@@@%%@@@@@@@%#*+++------                 
+     @@@@@@=@@@@@@%#%@@%%#*##++=-----=+                
+   @@@@@@@@*@@@@@@@@@%%#**+*++=------:=*               
+   @@@@@@@@+@@@@@@@@@@@@%#+=-:-------:=+###            
+   @@@@@@@@@*@@@@@@@@@@@@%%*+=====---.=******=...      
+   @@@@@@@@@@*@@@@@@@@@@%%*+==+++===-:+##*******:...   
+   @@@@@@@@@@@=@@@@@@@@@@%#*+++++++=-=@@#**##****-..   
+   @@@@@@@@@@@@-+%%%%@@@%#*++++++++++@@@%###%#***+:.   
+   @@@@@@@@@@@@@@=+%%%@%%#*********#@@@@%#%@@@@*##+.   
+   @@@@@@@@@@@@@@@+=+%@%%%%@@@##%%@@@@@@#%@@@@@##@@@   
+   @@@@@@@@@@@@@@@@@@*+#@@@@@@@@@@@@@@@%#@@@@@@%##@@   
+</pre>
+
+</td>
+
+<td valign="top">
+
+<pre>
+<b>kaio@KaioCarv</b>
+----------------------------
+
+OS:       Developer
+Host:     KaioCarv
+Location: Rio de Janeiro, BR
+Uptime:   Coding since 2023
+
+Role:
+Full-Stack Developer
+
+Education:
+UNIRIO
+Information Systems
+2024 - 2027
+
+Languages.Programming:
+Python
+JavaScript
+TypeScript
+PHP
+
+Languages.Computer:
+HTML
+CSS
+React
+React Native
+Node.js
+
+Data:
+Power BI
+
+Infra:
+Automation
+Monitoring
+Dynatrace
+REST APIs
+
+Languages.Real:
+Portuguese
+English - C1
+
+Contact:
+GitHub: KaioCarv
+LinkedIn: kaiocarv
+Email:
+devkaiocarv@gmail.com
+</pre>
+
+</td>
+
+</tr>
+</table>
+
 </div>
 
-## &nbsp;Contacts:
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kaiocarv/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:devkaiocarv@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+### GitHub Stats
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=KaioCarv&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioCarv&layout=compact&theme=github_dark&hide_border=true" />
+
+<br><br>
+
+<a href="https://github.com/KaioCarv">
+  <img src="https://img.shields.io/badge/GitHub-KaioCarv-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/kaiocarv">
+  <img src="https://img.shields.io/badge/LinkedIn-Kaio%20Sena-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:devkaiocarv@gmail.com">
+  <img src="https://img.shields.io/badge/Email-devkaiocarv%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
 </div>
-
-## &nbsp; Main skills:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,styledcomponents,tailwind,materialui,nodejs,redux,figma,firebase,sqlite,sequelize,postgres,docker,prisma,vercel,netlify,vite,vscode,express,git" />
-  </a>
-</p>
-
-## &nbsp; Tools:
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![macOS](https://img.shields.io/badge/-macOS-0D1117?style=for-the-badge&logo=macOS&labelColor=0D1117)&nbsp;
-
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6e72fc&height=120&section=footer"/>
