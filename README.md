@@ -6,8 +6,6 @@ KAIO // SYSTEMS
 
 <br>
 
-<sub>code • automate • observe • improve</sub>
-
 </div>
 
 <br>
@@ -142,9 +140,6 @@ backend architecture
 automation
 observability
 data-driven systems
-
-$ echo $MINDSET
-"ship, measure, improve"
 
 ~/toolbox
 
