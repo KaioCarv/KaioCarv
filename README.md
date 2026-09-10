@@ -107,25 +107,6 @@ mail     devkaiocarv@gmail.com
 
 <br>
 
-
-
-
-~/toolbox
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,react,nodejs,mysql,redis,docker,git,github,linux,vscode&perline=13" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power%20BI-data-111827?style=flat-square&logo=powerbi" />
-<img src="https://img.shields.io/badge/Ansible-automation-111827?style=flat-square&logo=ansible" />
-<img src="https://img.shields.io/badge/Dynatrace-observability-111827?style=flat-square&logo=dynatrace" />
-<img src="https://img.shields.io/badge/Zabbix-monitoring-111827?style=flat-square&logo=zabbix" />
-<img src="https://img.shields.io/badge/REST-APIs-111827?style=flat-square" />
-
-</div>
-
 ~/mission-control
 
 <div align="center">
