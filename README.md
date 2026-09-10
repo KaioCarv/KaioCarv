@@ -4,27 +4,17 @@ KAIO // SYSTEMS
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+web%2C+mobile+and+automation;Turning+problems+into+systems;Rio+de+Janeiro+%E2%86%92+Brazil" alt="Typing SVG" />
 
-<br>
-
 </div>
 
 <br>
+<div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+
+<td valign="top" width="62%">
 
 <pre>
-                                                       
-                                                       
-                                                       
-                                                       
-                                                       
-                                                       
-                                                       
-                                                       
-                                                       
-                                                       
                      ==--=--:..:::-                    
                   -:------:.::-:...-::                 
               --==-::::::::.::..:.......               
@@ -62,28 +52,18 @@ KAIO // SYSTEMS
    @@@@@@@@@@@@@@=+%%%@%%#*********#@@@@%#%@@@@*##+.   
    @@@@@@@@@@@@@@@+=+%@%%%%@@@##%%@@@@@@#%@@@@@##@@@   
    @@@@@@@@@@@@@@@@@@*+#@@@@@@@@@@@@@@@%#@@@@@@%##@@   
-                                                       
-                                                       
-                                                       
 </pre>
 
 </td>
 
-<td valign="top" width="50%">
+<td valign="top" width="38%">
 
 <pre>
 kaio@KaioCarv
-────────────────────────────────
-
-STATUS
-● online
-
+────────────────────────────────────
 ROLE
 Analista de Desenvolvimento
 de Sistemas Jr
-
-BASE
-Rio de Janeiro, BR
 
 EDUCATION
 UNIRIO
@@ -110,36 +90,25 @@ Dynatrace
 Zabbix
 REST APIs
 
-MODE
-build > automate > monitor
-
 LANG
 PT-BR  native
 EN     C1
 
 CONTACT
-github   KaioCarv
-linkedin kaiocarv
 mail     devkaiocarv@gmail.com
 </pre>
 
 </td>
+
 </tr>
 </table>
 
+</div>
+
 <br>
 
-~/now
 
-$ whoami
-kaio
 
-$ cat focus.txt
-full-stack development
-backend architecture
-automation
-observability
-data-driven systems
 
 ~/toolbox
 
@@ -175,21 +144,7 @@ data-driven systems
 [ OBS   ] systems before they become incidents
 [ DATA  ] signals into useful decisions
 
-<details>
-<summary><code>sudo open /about-me</code></summary>
 
-<br>
-
-Sou desenvolvedor com foco em construir soluções completas — da interface ao backend,
-passando por automação, integrações, dados e observabilidade.
-
-Gosto especialmente de transformar processos manuais em fluxos mais simples,
-mensuráveis e confiáveis.
-
-favorite loop:
-problem → code → automate → observe → improve
-
-</details>
 
 <br>
 
